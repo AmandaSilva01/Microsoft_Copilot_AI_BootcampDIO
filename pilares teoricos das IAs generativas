@@ -1,0 +1,32 @@
+As IA generativas são uma subárea da Inteligência Artificial que se concentra na criação de novos dados a partir de exemplos existentes. Os pilares teóricos que sustentam as IAs generativas incluem uma combinação de conceitos matemáticos, estatísticos e de aprendizado de máquina. Aqui estão os principais pilares teóricos:
+
+### 1. **Modelos Estatísticos**
+- **Distribuições Probabilísticas:** IA generativas frequentemente modelam a distribuição probabilística dos dados de entrada. Exemplos incluem distribuições Gaussianas, distribuições exponenciais, entre outras.
+- **Inferência Estatística:** Técnicas de inferência, como o Método de Monte Carlo, são usadas para estimar as propriedades das distribuições e gerar novos dados.
+
+### 2. **Redes Neurais**
+- **Redes Neurais Artificiais:** Estruturas de redes profundas, como Redes Neurais Convolucionais (CNNs) e Redes Neurais Recorrentes (RNNs), são usadas para capturar padrões complexos nos dados.
+- **Redes Gerativas Adversárias (GANs):** Compostas por duas redes (o gerador e o discriminador) que competem entre si, levando à geração de dados muito realistas.
+- **Autoencoders Variacionais (VAEs):** Redes neurais que aprendem a codificar os dados em um espaço latente contínuo e depois decodificá-los para gerar novos dados.
+
+### 3. **Aprendizado de Máquina**
+- **Aprendizado Não Supervisionado:** Métodos que permitem a IA aprender a estrutura dos dados sem rótulos explícitos. Exemplos incluem clustering, redução de dimensionalidade e métodos de geração de dados.
+- **Aprendizado Semi-supervisionado:** Combinação de dados rotulados e não rotulados para melhorar o desempenho da geração de novos dados.
+
+### 4. **Teoria da Informação**
+- **Entropia:** Medida da incerteza ou imprevisibilidade nos dados. Modelos gerativos buscam maximizar a entropia para criar dados diversos e realistas.
+- **Divergência de Kullback-Leibler (KL):** Métrica para medir a diferença entre duas distribuições probabilísticas, usada em VAEs para regularizar o aprendizado.
+
+### 5. **Processos Estocásticos**
+- **Cadeias de Markov:** Modelos matemáticos que descrevem sistemas que transicionam de um estado para outro de forma probabilística, usados para gerar sequências de dados.
+- **Processos Gaussianos:** Modelos estocásticos usados para gerar dados contínuos, especialmente em contextos onde a incerteza e a variabilidade são significativas.
+
+### 6. **Otimização**
+- **Métodos de Gradiente:** Técnicas como o gradiente descendente são usadas para minimizar a função de perda dos modelos gerativos.
+- **Métodos Evolutivos:** Algoritmos de otimização inspirados na evolução biológica, usados para explorar grandes espaços de busca de forma eficiente.
+
+### 7. **Teoria do Jogo**
+- **Jogos de Soma Zero:** Conceito central nas GANs, onde o gerador e o discriminador jogam um jogo de soma zero, com um tentando enganar o outro.
+- **Equilíbrio de Nash:** Situação em que nenhum jogador pode melhorar sua posição mudando sua estratégia, usada para entender o comportamento de modelos adversariais.
+
+Esses pilares teóricos se combinam para formar a base das IAs generativas, permitindo que essas tecnologias criem novos dados que são realistas e úteis em uma variedade de aplicações.
