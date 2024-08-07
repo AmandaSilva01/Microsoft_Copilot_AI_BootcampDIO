@@ -1,0 +1,7 @@
+Logei no Microsoft copilot
+e em seguida pedi a IA Generativa para que:
+
+crie para mim a imagem de uma floresta com cores negativas.
+
+entretanto o mesmo pedido foi feito logado em duas contas diferentes, 
+resultando em imagens totalmente opostas, mas que atendiam ao requisito.
